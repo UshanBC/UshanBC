@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks**  
-`Python` `JavaScript` `Java` `C/C++`  
+`Python` `JavaScript` `Java` `C` `R`
 `React` `Vue.js` `Bootstrap` `Tailwind CSS`  
 `Django` `Flask` `Node.js`
 
