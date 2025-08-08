@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Ushan Arosha 👋
 
-<!--
-**UshanBC/UshanBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Computer Systems Engineering Undergraduate** | 💻 **Developer** | ⚡ **Tech Explorer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Undergraduate at **NSBM Green University**, pursuing **BSc (Hons) in Computer Systems Engineering**
+- 🌐 Skilled in **Full-Stack Web Development** – React, Vue.js, Django, Flask, Node.js
+- ☁️ Interested in **Cloud Computing**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks**  
+`Python` `JavaScript` `Java` `C/C++`  
+`React` `Vue.js` `Bootstrap` `Tailwind CSS`  
+`Django` `Flask` `Node.js`
+
+**Databases**  
+`MySQL` `PostgreSQL`
+
+**Tools & Platforms**  
+`Docker` `Jenkins` `Git` `Bitbucket` `AWS` `Linux`
+
+---
+
+## 🌟 Featured Projects
+
+- **📷 Flask Blog App** – Blog platform with authentication, image uploads, and CRUD post management.  
+  🔗 [View Repository](https://github.com/UshanBC/flask_blog_app)
+  
+- **💼 Payroll Management System – Frontend** – React + TailwindCSS UI for salary management and incentives.  
+  🔗 [View Repository](https://github.com/udithathilakarathna/PayRoll_System_Frontend)
+
+- **💼 Payroll Management System – Backend** – Java Spring Boot backend for payroll management.  
+  🔗 [View Repository](https://github.com/udithathilakarathna/PayRoll_System_Backend)
+  
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ushan-arosha-abeygunasekara-6b50932a9)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ushanabey@gmail.com)
+
+---
+
+💡 *"Engineering is not just about building systems — it's about building solutions that matter."*
